@@ -14,9 +14,6 @@ prompt = """Your_prompt
 
 1. Step 1
 2. Step 2
-
-Use this format:
-This is correct because: [your format]
 """
 
 for _, row in sample.iterrows():
